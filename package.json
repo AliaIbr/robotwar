@@ -1,0 +1,23 @@
+{
+  "name": "robotwar",
+  "version": "1.0.0",
+  "description": "opentable code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliaIbr/robotwar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliaIbr/robotwar/issues"
+  },
+  "homepage": "https://github.com/AliaIbr/robotwar#readme",
+  "dependencies": {
+    "async": "^2.6.1"
+  }
+}
